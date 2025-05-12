@@ -1,4 +1,4 @@
-# We vs Dontol
+# Dontol Game
 
 ## Project Overview
 " Dontol Game" is a web-based game or interactive project. The project includes an HTML file, CSS for styling, JavaScript for interactivity, and assets such as images and sound files.
